@@ -1,0 +1,14 @@
+cff-version: 1.2.0
+message: "If you use this repository, please cite it as below."
+title: "Quantum Walks"
+authors:
+- family-names: "Arroyo Moro"
+  given-names: "Enrique"
+license: MIT
+url: "https://github.com/Enrique-Arroyo/quantum-walks"
+keywords:
+  - quantum walks
+  - discrete-time quantum walk
+  - wolfram mathematica
+  - wolfram language
+  - quantum simulation
